@@ -1,0 +1,7 @@
+speechbrain
+torchaudio
+pydub
+scipy
+sounddevice
+numpy
+scikit-learn
